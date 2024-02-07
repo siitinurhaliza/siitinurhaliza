@@ -15,11 +15,9 @@
   <a href="https://github.com/siitinurhaliza/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=siitinurhaliza&style=for-the-badge">
   </a>
-</div>
 
-##<div align="center">
-  <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="70">
-  <h2>About Me:</h2>
+
+  ## <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="70"> **About Me:**
 
   I am a Padang State Polytechnic student majoring in Information Technology. Very motivated to continue improving my skills. I enjoy discovering new things and sharing them with others. I like cats, games, and listening to music. <br>
 </div>
