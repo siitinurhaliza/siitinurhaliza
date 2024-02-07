@@ -1,4 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36BCF7FF&center=true&width=1000&height=52&lines=Hi+There!!+Happy+To+Meet+You.+I'm+Siti Nurhaliza)
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36BCF7FF&center=true&width=1000&height=52&lines=Hi+There!!+Happy+To+Meet+You.+I'm+Siti Nurhaliza>
+
+</h1>
 
 <p align="center">
   <a href="https://www.instagram.com/siitinrhlz?igsh=NXJ5bHR6czk0MHpn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
