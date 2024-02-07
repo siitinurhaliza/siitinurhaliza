@@ -17,8 +17,7 @@
   </a>
 </div>
 
-##<div align="center">
-  <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="40">
+##<div align="center" img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="40">
   <h2>About Me:</h2>
 
   I am a Padang State Polytechnic student majoring in Information Technology. Very motivated to continue improving my skills. I enjoy discovering new things and sharing them with others. I like cats, games, and listening to music. <br>
